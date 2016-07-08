@@ -1,4 +1,6 @@
 # hello-world
 learning to use repositories
 
-I like warm hugs
+Hi friends,
+
+I'm Danielle and I like warm hugs
